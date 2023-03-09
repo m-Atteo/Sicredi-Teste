@@ -80,7 +80,7 @@ describe('Verifica simulações de cadastro', ()=>{
             });                
         })
     })
-    it('Cadastro de CPF com nome invalido', () => {
+    it('Cadastro de CPF com nome inválido', () => {
         cy.fixture('ResgisterSimulation').then((registerData) =>{
             cy.request({
                 method: 'POST',

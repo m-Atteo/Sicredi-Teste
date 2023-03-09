@@ -1,0 +1,16 @@
+{
+    "cpfValido": "66414919004",
+    "cpfInvalido": "00000000000",
+    "nomeValido": "Pedro Moura",
+    "nomeInvalido": 1,
+    "emailValido": "novoemail@teste.com",
+    "emailInvalido": "novoemailteste.com",
+    "valorValido": 10000,
+    "valorMenorInvalido": 500,
+    "valorMaiorInvalido": 50000,
+    "parcelaValido": 5,
+    "parcelaMenorInvalido": 1,
+    "parcelaMaiorInvalido": 50,
+    "seguroValido": true,
+    "seguroInvalido": 5
+}

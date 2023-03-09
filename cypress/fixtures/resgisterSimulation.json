@@ -1,0 +1,91 @@
+[
+    {
+        "cpf": "13555238426",
+        "nome": "José Silva",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": "true"
+    },
+    {
+        "cpf": "47538634509",
+        "nome": "Maria Silva",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": "false"
+    },
+    {
+        "cpf": "13555238426",
+        "nome": "Maria Silva",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": "false"
+    },
+    {
+        "cpf": "000",
+        "nome": "José Silva",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": "false"
+    },
+    {
+        "cpf": "52058132297",
+        "nome": "",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": "ture"
+    },
+    {
+        "cpf": "77576916486",
+        "nome": "Maria Silva",
+        "email": "teste.com",
+        "valor": "40000",
+        "parcelas": "48",
+        "seguro": "true"
+    },
+    {
+        "cpf": "34778486242",
+        "nome": "José Silva",
+        "email": "teste@teste.com",
+        "valor": "500",
+        "parcelas": "48",
+        "seguro": "true"
+    },
+    {
+        "cpf": "30587743115",
+        "nome": "José Silva",
+        "email": "teste@teste.com",
+        "valor": "100000",
+        "parcelas": "48",
+        "seguro": "false"
+    },
+    {
+        "cpf": "61376449102",
+        "nome": "Maria Silva",
+        "email": "teste@teste.com",
+        "valor": "40000",
+        "parcelas": "1",
+        "seguro": "true"
+    },
+    {
+        "cpf": "35445975940",
+        "nome": "Maria Silva",
+        "email": "teste@teste.com",
+        "valor": "40000",
+        "parcelas": "50",
+        "seguro": "false"
+    },
+    {
+        "cpf": "10063176351",
+        "nome": "José Silva",
+        "email": "teste@teste.com",
+        "valor": "1000",
+        "parcelas": "2",
+        "seguro": ""
+    }
+
+]  

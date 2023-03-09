@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cypress": "^12.7.0",
+    "cypress-plugin-api": "^2.10.3"
+  },
+  "name": "sicredi-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Matteo Carvalho",
+  "license": "ISC",
+  "description": ""
+}

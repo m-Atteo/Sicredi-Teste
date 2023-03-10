@@ -1,91 +1,25 @@
-[
-    {
-        "cpf": "13555238426",
-        "nome": "José Silva",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": "true"
-    },
-    {
-        "cpf": "47538634509",
-        "nome": "Maria Silva",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": "false"
-    },
-    {
-        "cpf": "13555238426",
-        "nome": "Maria Silva",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": "false"
-    },
-    {
-        "cpf": "000",
-        "nome": "José Silva",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": "false"
-    },
-    {
-        "cpf": "52058132297",
-        "nome": "",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": "ture"
-    },
-    {
-        "cpf": "77576916486",
-        "nome": "Maria Silva",
-        "email": "teste.com",
-        "valor": "40000",
-        "parcelas": "48",
-        "seguro": "true"
-    },
-    {
-        "cpf": "34778486242",
-        "nome": "José Silva",
-        "email": "teste@teste.com",
-        "valor": "500",
-        "parcelas": "48",
-        "seguro": "true"
-    },
-    {
-        "cpf": "30587743115",
-        "nome": "José Silva",
-        "email": "teste@teste.com",
-        "valor": "100000",
-        "parcelas": "48",
-        "seguro": "false"
-    },
-    {
-        "cpf": "61376449102",
-        "nome": "Maria Silva",
-        "email": "teste@teste.com",
-        "valor": "40000",
-        "parcelas": "1",
-        "seguro": "true"
-    },
-    {
-        "cpf": "35445975940",
-        "nome": "Maria Silva",
-        "email": "teste@teste.com",
-        "valor": "40000",
-        "parcelas": "50",
-        "seguro": "false"
-    },
-    {
-        "cpf": "10063176351",
-        "nome": "José Silva",
-        "email": "teste@teste.com",
-        "valor": "1000",
-        "parcelas": "2",
-        "seguro": ""
-    }
-
-]  
+{
+    "cpfV1": "13555238426",
+    "cpfV2": "47538634509",
+    "cpfV3": "52058132297",
+    "cpfV4": "77576916486",
+    "cpfV5": "34778486242",
+    "cpfV6": "30587743115",
+    "cpfV7": "61376449102",
+    "cpfV8": "35445975940",
+    "cpfV9": "10063176351",
+    "cpfI": "000",
+    "nomeV": "José Silva",
+    "nomeI": "",
+    "emailV": "teste@teste.com",
+    "emailI": "teste.com",
+    "valorV": "1000",
+    "valorMinI": "500",
+    "valorMaxI": "100000",
+    "parcelasV": "2",
+    "parcelasMinI": "1",
+    "parcelasMaxI": "50",
+    "comSeguro": "true",
+    "semSeguro": "false",
+    "seguroI": ""
+}

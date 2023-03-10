@@ -11,5 +11,8 @@
   },
   "author": "Matteo Carvalho",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
 }
